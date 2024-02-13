@@ -4,7 +4,7 @@ package com.dmribeiro87.reelscompose.utils
 import android.net.Uri
 
 object DummyData {
-    val reels = listOf<Reel>(
+    val reels = listOf(
         Reel(
             id = 1,
             video = "video_asset_1.mp4",
